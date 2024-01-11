@@ -1,5 +1,10 @@
 # ccCluB_Project
+
+`嚐嚐酒酒 Python 調酒小工具`
+
 This is for ccClub final project
+
+ccClub 2023 Fall Python 讀書會
 
 ## 程式結構
 * main.py
